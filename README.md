@@ -1,11 +1,23 @@
 # React + Vite
 Here is Live todoApp Link -- https://todonaresh.netlify.app/
+<br>
+
 
 -- To clone This Todo App Website
-step 1-- Clone the repository
+<br>
+
+step 1-- Clone the repository 
+<br>
 step 2-- Install the dependencies using npm install (make sure you have node installed in your system)
+<br>
+
 step 3-- Start the development server using npm run dev
+<br>
+
 step 4-- Open your browser and navigate to http://localhost:5173 <-- this is the default port where vite will run
+<br>
+<br>
+
 
 
 
