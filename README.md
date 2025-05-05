@@ -1,4 +1,28 @@
 # React + Vite
+Here is Live todoApp Link -- https://todonaresh.netlify.app/
+
+-- To clone This Todo App Website
+step 1-- Clone the repository
+step 2-- Install the dependencies using npm install (make sure you have node installed in your system)
+step 3-- Start the development server using npm run dev
+step 4-- Open your browser and navigate to http://localhost:5173 <-- this is the default port where vite will run
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
